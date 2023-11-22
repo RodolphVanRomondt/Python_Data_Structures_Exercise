@@ -33,5 +33,3 @@ def reverse_vowels(s):
             sR += char
     
     return sR
-
-print(reverse_vowels("aeiou"))

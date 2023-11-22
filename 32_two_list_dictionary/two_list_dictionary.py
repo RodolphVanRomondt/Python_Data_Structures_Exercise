@@ -25,5 +25,3 @@ def two_list_dictionary(keys, values):
             dic[keys[i]] = values[i]
     
     return dic
-
-print(two_list_dictionary(['x', 'y', 'z'], [9, 8, 7]))
